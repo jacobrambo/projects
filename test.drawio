@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile userAgent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.2.2" etag="FgQe-D2q1eTV-qDhT-px" type="device" id="YONd8R91AL5xjaVqB5OP">
+  <diagram id="bDiilVQ0v4_VKbKxNqWV">
+    <mxGraphModel dx="865" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VIVV91wSyi0A3ae_M11v-29" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="140" y="70" geometry="x=140,y=70,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-30" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="280" y="300" geometry="x=280,y=300,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-31" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="420" y="70" geometry="x=420,y=70,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-32" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="560" y="300" geometry="x=560,y=300,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-33" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="700" y="70" geometry="x=700,y=70,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-34" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="120" height="200" x="840" y="300" geometry="x=840,y=300,width=120,height=200;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="120" height="200" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-35" value="Client" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="90" height="60" x="170" y="120" geometry="x=170,y=120,width=90,height=60;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="90" height="60" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-36" value="Waitlist Microservice" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="140" height="60" x="280" y="350" geometry="x=280,y=350,width=140,height=60;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="140" height="60" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-37" value="Notification Service" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="160" height="60" x="420" y="120" geometry="x=420,y=120,width=160,height=60;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="160" height="60" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-38" value="Request to Join Waitlist" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="140" height="60" x="560" y="350" geometry="x=560,y=350,width=140,height=60;" vertexLabels1="["">
+          <mxGeometry as="geometry" width="140" height="60" />
+        </mxCell>
+        <mxCell id="VIVV91wSyi0A3ae_M11v-39" value="Check Position on Waitlist" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connectEdges="1" connectableEdges="1" width="160" height="60" x="700" y="120" geometry="
